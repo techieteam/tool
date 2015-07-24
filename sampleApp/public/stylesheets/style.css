@@ -6,3 +6,9 @@ body {
 a {
   color: #00B7FF;
 }
+
+p {
+  font-size : 40px;
+  color: yellow;
+  background-color: black;
+}
